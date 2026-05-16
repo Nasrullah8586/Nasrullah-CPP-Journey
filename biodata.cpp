@@ -1,8 +1,9 @@
 #include<iostream>
+#include<conio.h>
 using namespace std;
 int main(){
 
     cout<<"Nasrullah Khan Ferdaus";
-    return 0;
+    getch();
 
 }
