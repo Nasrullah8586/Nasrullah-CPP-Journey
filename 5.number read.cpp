@@ -9,8 +9,8 @@ int main(){
 	num1=10;
 	num2=20;
     
-    cout<<num1<<endl;
-    cout<<num2;
+    cout<<"Number1 =" << num1 <<endl;
+    cout<<"Number2 =" << num2;
 
 	getch();
 	
