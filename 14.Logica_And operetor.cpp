@@ -5,7 +5,7 @@ int main(){
 	int x,y;
 	cout<<"Enter any two numbers: ";
 	cin>>x>>y;
-	if(x>14&&y<5){
+	if(x>14 && y<5){
 		cout<<"valid";
 	}
 	else{
