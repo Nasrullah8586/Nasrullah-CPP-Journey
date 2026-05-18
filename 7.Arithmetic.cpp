@@ -30,8 +30,6 @@ int main (){
 	int rem;
 	rem=num1 % num2;
 	cout<<"The reminder is:"<<rem;
-	cout<<endl;
-	
 	
 	getch();
 	
