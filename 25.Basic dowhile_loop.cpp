@@ -13,7 +13,7 @@ int main(){
 	while(i<=30);
 	
 
-	cout<<"End of while loop";
+	cout<<"End of do while loop";
 	
 
 	getch();
